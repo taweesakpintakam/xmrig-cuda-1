@@ -1,5 +1,3 @@
-# xmrig-cuda
-This repository is NVIDIA CUDA plugin for XMRig miner v4.5+ and it adds support for NVIDIA GPUs in XMRig miner.
 
 Main reasons why this plugin is separated project is:
 1. CUDA support is optional, not all users need it, but it is very heavy.
